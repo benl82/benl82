@@ -10,8 +10,6 @@
 - Experienced in MySQL, C++, C# and .NET Framework, VBA for Excel, Java
 - Worked with PyTorch, Keras, scipy, pandas, tidyverse
 ##### WORK
-- Open to working remotely
-- Open to working in-person in the LA Metro Area
 - Looking for internships in CS or Data Analytics
 ##### Achievements
 - 2x USAMO Qualifier
