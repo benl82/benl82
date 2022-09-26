@@ -15,7 +15,7 @@
 - Looking for internships in CS or Data Analytics
 ##### Achievements
 - 2x USAMO Qualifier
-- 2021 Stanford Math Tournament Winner
+- 2021 Stanford Math Tournament NT Winner
 
 <!--
 **benl82/benl82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
