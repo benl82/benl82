@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### Data theory student at UCLA
+#### Data Theory @ UCLA
 
 ##### WORK
 - Quantitative Trading Intern @ SIG - Index options team
