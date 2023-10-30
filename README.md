@@ -1,12 +1,8 @@
 #### Data Theory @ UCLA
 
 ##### WORK
+- Quantitative Trading Intern @ Jane Street
 - Quantitative Trading Intern @ SIG - Index options team
-##### Achievements
-- 2x USAMO Qualifier
-- 5x AIME Qualifier
-- USACO Gold
-- ARML Tiebreaker
 
 <!--
 **benl82/benl82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
