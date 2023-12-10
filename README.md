@@ -1,7 +1,7 @@
-#### Data Theory @ UCLA
+#### Data Science @ --
 
 ##### WORK
-- Quantitative Trading Intern @ Jane Street
+- Quantitative Trading Intern @ Undisclosed
 - Quantitative Trading Intern @ SIG - Index options team
 
 <!--
