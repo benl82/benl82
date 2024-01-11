@@ -1,7 +1,7 @@
-#### Data Science @ --
+#### Data Science @ UCLA
 
 ##### WORK
-- Quantitative Trading Intern @ Undisclosed
+- Quantitative Trading Intern @ JS
 - Quantitative Trading Intern @ SIG - Index options team
 
 <!--
