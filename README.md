@@ -1,9 +1,5 @@
 #### Data Science @ UCLA
 
-##### WORK
-- Quantitative Trading Intern @ JS
-- Quantitative Trading Intern @ SIG - Index options team
-
 <!--
 **benl82/benl82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
